@@ -1,7 +1,8 @@
 # Keypad-Puzzle
 Made in Verilog using an Altera DE2 FPGA. Code compiled using Quartus.
 
-Main file: controller.v
+Main file: controller.v <br>
+Video: https://www.youtube.com/watch?v=C1hH2x2ouWI
 
 <img src="http://1.bp.blogspot.com/_U89HXudgNZE/S5uuNncw2BI/AAAAAAAAAgI/ApeJFkhn10s/s1600/Image22.png" alt="Nancy Drew" />
 
